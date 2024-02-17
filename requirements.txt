@@ -1,0 +1,3 @@
+fastapi==0.109.2
+twilio==8.13.0
+uvicorn==0.27.1

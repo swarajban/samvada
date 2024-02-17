@@ -1,3 +1,4 @@
 samvada.iml
 .idea
 __pycache__
+gcp-credentials.json
